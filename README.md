@@ -60,9 +60,7 @@ You can try running `make gui`, but it was based on the path at which my Qt libr
 
 ## Project Structure
 
-```
-src/    <-- Core interpreter (language definition, parsing engine, etc.)
-gui/    <-- Qt GUI application
-tests/  <-- Unit and fuzz tests (ignore these -- if you truly want to run tests, use the CLI above)
-docs/   <-- Doxygen documentation (Doxyfile only)
-```
+- `src/`    <-- Core interpreter (language definition, parsing engine, etc.)
+- `gui/`    <-- Qt GUI application
+- `tests/`  <-- Unit and fuzz tests (ignore these -- if you truly want to run tests, use the CLI above)
+- `docs/`   <-- Doxygen documentation (Doxyfile only)

@@ -1,0 +1,40 @@
+###############################
+# Ignore Rules for msd-script #
+###############################
+
+# IDEs
+.idea/
+*.iml
+.qtcreator/
+
+# CMake
+cmake-build-*/
+
+# Objects/libs/binaries
+bin/
+build/
+
+# Qt deployment artifacts
+*.app/
+*.dSYM/
+*.zip
+
+# Doxygen (generated HTML, etc.)
+docs/html/
+docs/latex/
+docs/docbook/
+
+# Project-specific
+out/
+
+# Logs
+tests/fuzz/reports/
+
+# differential fuzz programs
+tests/fuzz/testers/
+
+# GCC patch
+**/*.gcno
+
+# macOS
+.DS_Store

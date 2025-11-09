@@ -25,7 +25,6 @@ add_executable(msd-script
     src/catch.h
     tests/unit/tests.cpp
     src/tests.cpp
-    docs/mainpage.md
 )
 
 # GUI executable

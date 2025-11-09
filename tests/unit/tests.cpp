@@ -2,7 +2,6 @@
  * \brief Catch2 tests for: Expr.cpp, parse.cpp, Val.cpp
  *
  * \file tests.cpp
- * \author Jake Dame
  */
 
 #include "../../src/catch.h" /* Catch2 testing framework */

@@ -1,5 +1,4 @@
 #  Makefile - makefile for MsdScript
-#  Author: Jake Dame
 #  Date: Spring 2024
 
 # These are rules for all three "versions"/entry points that use the base MsdScript source code.

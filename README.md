@@ -4,6 +4,8 @@ A lightweight mathematical scripting language, and a C++ interpreter for it, sup
 
 Built for macOS.
 
+[Documentation](https://jake-dame.github.io/msd-script/)
+
 ![GUI screenshot](docs/assets/gui.png "msd-script GUI")
 
 ## Features

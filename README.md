@@ -2,11 +2,13 @@
 
 A lightweight mathematical scripting language, and a C++ interpreter for it, supporting integers, booleans, variable binding, conditional evaluation, and functions. Includes both a command-line interface and a Qt-based GUI. 
 
+Documentation [here](https://jake-dame.github.io/msd-script/).
+
 Built for macOS.
 
-[Documentation](https://jake-dame.github.io/msd-script/)
 
 ![GUI screenshot](docs/assets/gui.png "msd-script GUI")
+
 
 ## Features
 
